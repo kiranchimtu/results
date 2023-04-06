@@ -4,6 +4,8 @@ const Header = () => {
   return (
     <>
       <Head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1642058669381147"
+     crossorigin="anonymous"></script>
         <title>JNTUH B.Tech Results</title>
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
